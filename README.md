@@ -4,13 +4,13 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## 📊 Project Overview
+## Project Overview
 
 This repository contains a comprehensive financial analysis of Circle Internet Group (CRCL), demonstrating advanced financial modeling, data analysis, and quantitative research skills using Python, SQL, Excel, and other financial tools.
 
 **Company Focus**: Circle Internet Group (NYSE: CRCL) - Leading regulated stablecoin issuer with USD Coin (USDC)
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - **Financial Statement Analysis**: Complete evaluation of CRCL's financial performance (2019-2025)
 - **SEC Filing Analysis**: Comprehensive review of IPO documents and regulatory filings
@@ -18,7 +18,7 @@ This repository contains a comprehensive financial analysis of Circle Internet G
 - **Risk Assessment**: Interest rate sensitivity and regulatory impact analysis
 - **Investment Thesis**: Bull/bear case scenarios with price targets
 
-## 🛠️ Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 ### FinTech & Financial Tools
 - **Bloomberg Terminal** (BMC Certified)
@@ -38,7 +38,7 @@ This repository contains a comprehensive financial analysis of Circle Internet G
 - **R** statistical analysis
 - **SAS** statistical software
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CRCL_Financial_Analysis/
@@ -85,7 +85,7 @@ CRCL_Financial_Analysis/
     └── api_documentation.md        # Code documentation
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -116,7 +116,7 @@ python setup.py install
 jupyter notebook
 ```
 
-## 📈 Key Findings
+## Key Findings
 
 ### Financial Performance Highlights
 - **Revenue Growth**: 12,140% increase from $15.44M (2019) to $1.89B (2024)
@@ -135,7 +135,7 @@ jupyter notebook
 - **Regulatory Risk**: Dependent on GENIUS Act compliance
 - **Competition**: Tether dominance at 66% market share
 
-## 📊 Data Sources
+## Data Sources
 
 - **SEC EDGAR Database**: Official filings and forms
 - **Yahoo Finance API**: Market data and pricing
@@ -144,7 +144,7 @@ jupyter notebook
 - **Bloomberg Terminal**: Professional market data
 - **FactSet**: Institutional financial data
 
-## 🔧 Analysis Methodology
+## Analysis Methodology
 
 ### 1. Data Collection
 - Automated SEC filing retrieval using Python
@@ -166,7 +166,7 @@ jupyter notebook
 - Interest rate sensitivity analysis
 - Regulatory impact evaluation
 
-## 📋 Key Reports
+## Key Reports
 
 1. **Executive Summary** - High-level investment thesis
 2. **Financial Analysis Report** - Detailed financial metrics
@@ -174,7 +174,7 @@ jupyter notebook
 4. **Risk Assessment** - Comprehensive risk evaluation
 5. **Market Analysis** - Competitive positioning
 
-## 🏆 Professional Applications
+## Professional Applications
 
 This project demonstrates proficiency in:
 - **Financial Modeling**: DCF, sensitivity analysis, scenario planning
@@ -184,17 +184,17 @@ This project demonstrates proficiency in:
 - **Research**: SEC filing analysis and regulatory interpretation
 - **Communication**: Executive summaries and stakeholder presentations
 
-## 📞 Contact Information
+## Contact Information
 
 **Author**: Karan Kirpalani
 **LinkedIn**: https://www.linkedin.com/in/kkirpalani/
 **Email**: kkirpalani@umassd.edu
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - SEC EDGAR database for comprehensive filings
 - Python community for excellent financial libraries
@@ -202,5 +202,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Financial data providers for market insights
 
 ---
-
-*This project is for educational and demonstration purposes. It showcases financial analysis capabilities and should not be considered as investment advice.*
