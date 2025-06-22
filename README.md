@@ -186,10 +186,9 @@ This project demonstrates proficiency in:
 
 ## 📞 Contact Information
 
-**Author**: [Your Name]
-**LinkedIn**: [Your LinkedIn Profile]
-**Email**: [Your Email]
-**Portfolio**: [Your Portfolio Website]
+**Author**: Karan Kirpalani
+**LinkedIn**: https://www.linkedin.com/in/kkirpalani/
+**Email**: kkirpalani@umassd.edu
 
 ## 📄 License
 
