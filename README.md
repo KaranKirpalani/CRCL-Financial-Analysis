@@ -187,7 +187,9 @@ This project demonstrates proficiency in:
 ## Contact Information
 
 **Author**: Karan Kirpalani
+
 **LinkedIn**: https://www.linkedin.com/in/kkirpalani/
+
 **Email**: kkirpalani@umassd.edu
 
 ## License
